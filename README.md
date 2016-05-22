@@ -1,6 +1,8 @@
 # Talks
 Contains slides from my talks.
 
+* [ Multiple testing with prior information identifies loci for exceptional longevity]
+(https://github.com/dobriban/Talks/blob/master/Dobriban - Multiple Testing with Prior Information identifies loci for exceptional longevity Big Data in Biomedicine 2016 poster.pdf),  poster at Big Data in Biomedicine, May 2016, Stanford 
 * [ Optimal detection of principal components in high dimensional data]
 (https://github.com/dobriban/Talks/blob/master/Dobriban - Optimal detection of principal components in high dimensional data - Princeton May 2016 - slides.pdf),  IDEAS seminar May 2016, Princeton
 * [High-dimensional asymptotics of prediction: ridge regression]
