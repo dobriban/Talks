@@ -1,6 +1,8 @@
 # Talks
 Contains slides from my talks.
 
+* [ Computation, statistics, and random matrix theory]
+(https://github.com/dobriban/Talks/blob/master/Dobriban - Dobriban - Computation, statistics and random matrix theory - Harvard Oct 2016.pdf),  Harvard Probability and Random Matrix Theory Seminar, Oct 2016, Harvard University
 * [ Optimal detection of principal components in high dimensional data]
 (https://github.com/dobriban/Talks/blob/master/Dobriban - Optimal detection of principal components in high dimensional data - Stanford Aug 2016 - slides.pdf),  Stanford Statistics Seminar, Aug 2016, Stanford University
 * [ Optimal detection of principal components in high dimensional data]
