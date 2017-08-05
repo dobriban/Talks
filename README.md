@@ -2,7 +2,7 @@
 Contains slides from my talks.
 
 * [Weighted multiple testing by convex optimization](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Weighted%multiple%testing%by%convex%optimization%20MCP%202017%20slides.pdf),  Xth MCP 2017, Riverside
-* [ Optimal detection of principal components in high dimensional data](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20ePCA.%20Exponential Family PCA%20-%20Stanford%20Feb%202017%20-%20slides.pdf),  Stanford Statistics Seminar, Feb 2017, Stanford University
+* [ Optimal detection of principal components in high dimensional data](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20ePCA.%20Exponential%20Family%20PCA%20-%20Stanford%20Feb%202017%20-%20slides.pdf),  Stanford Statistics Seminar, Feb 2017, Stanford University
 * [Computation, statistics, and random matrix theory](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Computation,%20statistics%20and%20random%20matrix%20theory%20-%20Harvard%20Oct%202016.pdf),  Harvard Probability and Random Matrix Theory Seminar, Oct 2016, Harvard University
 * [ Optimal detection of principal components in high dimensional data](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Optimal%20detection%20of%20principal%20components%20in%20high%20dimensional%20data%20-%20Stanford%20Aug%202016%20-%20slides.pdf),  Stanford Statistics Seminar, Aug 2016, Stanford University
 * [ Optimal detection of principal components in high dimensional data](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Optimal%20detection%20of%20principal%20components%20in%20high%20dimensional%20data%20-%20ISNPS%20June%202016%20-%20slides.pdf),  3rd ISNPS conference, June 2016, Avignon
