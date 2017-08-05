@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+*  Optimal prediction in the linearly transformed spiked model](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Optimal%20prediction%20in%20the%20linearly%20transformed%20spiked%20model%20JSM%202017.pdf), JSM 2017, Baltimore
 * [Weighted multiple testing by convex optimization](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Weighted%multiple%testing%by%convex%optimization%20MCP%202017%20slides.pdf),  Xth MCP 2017, Riverside
 * [ ePCA. Exponential Family PCA](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20ePCA.%20Exponential%20Family%20PCA%20-%20Stanford%20Feb%202017%20-%20slides.pdf),  Stanford Statistics Seminar, Feb 2017, Stanford University
 * [Computation, statistics, and random matrix theory](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Computation,%20statistics%20and%20random%20matrix%20theory%20-%20Harvard%20Oct%202016.pdf),  Harvard Probability and Random Matrix Theory Seminar, Oct 2016, Harvard University
