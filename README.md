@@ -1,7 +1,7 @@
 # Talks
 Contains slides from my talks.
 
-
+* [How to deal with big data? Understanding large-scale distributed regression](https://github.com/dobriban/Talks/blob/master/Dobriban_-_How_to_deal_with_big_data_-_Understanding_large-scale_distributed_regression_-_Chicago_Oct_2018.pdf), Chicago, 2018. Penn 2018.
 * [Deterministic parallel analysis: an improved method for selecting the number of factors and principal components](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Deterministic%20parallel%20analysis%20for%20selecting%20the%20number%20of%20factors%20-%20France%202017.pdf), Paris, France 2017. JSM 2018, Vancouver. 
 * [Optimal prediction in the linearly transformed spiked model](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Optimal%20prediction%20in%20the%20linearly%20transformed%20spiked%20model%20-%20GATech%202017.pdf), Georgia Tech 2017, Atlanta. JSM 2017, Baltimore
 * [Weighted multiple testing by convex optimization](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Weighted%20multiple%20testing%20by%20convex%20optimization%20-%20MCP%202017%20slides.pdf),  Xth MCP 2017, Riverside
