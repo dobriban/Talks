@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [A New Theory for Sketching in Linear Regression](https://github.com/dobriban/Talks/blob/master/Dobriban_-_A_new_theory_for_sketching_in_linear_regression_-_Montreal_Mar_2019.pdf), Montreal, 2019.
 * [How to deal with big data? Understanding large-scale distributed regression](https://github.com/dobriban/Talks/blob/master/Dobriban_-_How_to_deal_with_big_data_-_Understanding_large-scale_distributed_regression_-_Chicago_Oct_2018.pdf), Chicago, 2018. Penn 2018.
 * [Deterministic parallel analysis: an improved method for selecting factors and principal components](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Deterministic%20parallel%20analysis%20for%20selecting%20the%20number%20of%20factors%20-%20France%202017.pdf), Paris, France 2017. JSM 2018, Vancouver. 
 * [Optimal prediction in the linearly transformed spiked model](https://github.com/dobriban/Talks/blob/master/Dobriban%20-%20Optimal%20prediction%20in%20the%20linearly%20transformed%20spiked%20model%20-%20GATech%202017.pdf), Georgia Tech 2017, Atlanta. JSM 2017, Baltimore
