@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [Ridge Regression: Structure, Cross-Validation, and Sketching](https://github.com/dobriban/Talks/blob/master/Ridge Regression Structure, Cross-Validation, and Sketching.pdf), ICLR 2020.
 * [Understanding Data Augmentation for Deep Learning and Beyond](https://github.com/dobriban/Talks/blob/master/aug_talk.pdf), Denver, JSM 2019.
 * [A New Theory for Sketching in Linear Regression](https://github.com/dobriban/Talks/blob/master/Dobriban_-_A_new_theory_for_sketching_in_linear_regression_-_Montreal_Mar_2019.pdf), Montreal, 2019.
 * [How to deal with big data? Understanding large-scale distributed regression](https://github.com/dobriban/Talks/blob/master/Dobriban_-_How_to_deal_with_big_data_-_Understanding_large-scale_distributed_regression_-_Chicago_Oct_2018.pdf), Chicago, 2018. Penn 2018.
