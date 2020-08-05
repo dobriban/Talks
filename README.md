@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [Discussion on Theoretical Advances in Deep Learning](https://github.com/dobriban/Talks/blob/master/JSM%202020.pdf), JSM 2020, Discussant at [Session on Theoretical Advances in Deep Learning](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219277), organized by Po-Ling Loh.
 * [The Implicit Regularization of Stochastic Gradient Flow for Least Squares](https://github.com/dobriban/Talks/blob/master/The%20Implicit%20Regularization%20of%20Stochastic%20Gradient%20Flow%20for%20Least%20Squares.pdf), JSM 2020.
 * [Ridge Regression: Structure, Cross-Validation, and Sketching](https://github.com/dobriban/Talks/blob/master/Liu,%20Dobriban%20-%20Ridge%20Regression%20Structure,%20Cross-Validation,%20and%20Sketching.pdf), ICLR 2020.
 * [Understanding Data Augmentation for Deep Learning and Beyond](https://github.com/dobriban/Talks/blob/master/aug_talk.pdf), Denver, JSM 2019.
