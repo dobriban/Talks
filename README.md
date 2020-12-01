@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [What causes adversarial examples?](https://github.com/dobriban/Talks/blob/master/muri_talk.pdf), Nov 2020, [UPenn, ARO MURI reading group]
 * [On the statistical foundations of adversarially robust learning](https://github.com/dobriban/Talks/blob/master/adv.pdf), Oct 2020, [Wharton, UPenn, Statistics seminar](https://statistics.wharton.upenn.edu/research/seminars-conferences/on-the-statistical-foundations-of-adversarially-robust-learning/).
 * [Asymptotic perspectives on sketching](https://github.com/dobriban/Talks/blob/master/wisconsin_2020.pdf), Wisconsin [SILO 2020](https://silo.wisc.edu/).
 * [Discussion on Theoretical Advances in Deep Learning](https://github.com/dobriban/Talks/blob/master/jsm_2020.pdf), JSM 2020, Discussant at [Session on Theoretical Advances in Deep Learning](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219277), organized by Po-Ling Loh.
