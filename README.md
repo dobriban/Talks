@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [What causes the test error? Going beyond bias-variance via ANOVA](https://github.com/dobriban/Talks/blob/master/Anova_Talk.pdf), May 2021, [NSF-Simons Mathematical and Scientific Foundations of Deep Learning Journal Club]
 * [HYPER: Flexible and effective pooled testing via hypergraph factorization](https://github.com/dobriban/Talks/blob/master/HYPER.pdf), Apr 2021, [Princeton IDEAS seminar]
 * [What causes adversarial examples?](https://github.com/dobriban/Talks/blob/master/muri_talk.pdf), Nov 2020, [UPenn, ARO MURI reading group]
 * [On the statistical foundations of adversarially robust learning](https://github.com/dobriban/Talks/blob/master/adv.pdf), Oct 2020, [Wharton, UPenn, Statistics seminar](https://statistics.wharton.upenn.edu/research/seminars-conferences/on-the-statistical-foundations-of-adversarially-robust-learning/).
