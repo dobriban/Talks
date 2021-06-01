@@ -1,7 +1,7 @@
 # Talks
 Contains slides from my talks.
 
-* [Deep Learning in Statistics: Practical Challenges](https://github.com/dobriban/Talks/blob/master/talk.pdf), May 2021, 2021 Symposium on Data Science & Statistics, Short Course on Deep Learning in Statistics
+* [Deep Learning in Statistics: Practical Challenges](https://github.com/dobriban/Talks/blob/master/SDSS_short_course_2021_talk.pdf), May 2021, 2021 Symposium on Data Science & Statistics, Short Course on Deep Learning in Statistics
 * [What causes the test error? Going beyond bias-variance via ANOVA](https://github.com/dobriban/Talks/blob/master/Anova_Talk.pdf), May 2021, NSF-Simons Mathematical and Scientific Foundations of Deep Learning Journal Club
 * [HYPER: Flexible and effective pooled testing via hypergraph factorization](https://github.com/dobriban/Talks/blob/master/HYPER.pdf), Apr 2021, Princeton IDEAS seminar
 * [What causes adversarial examples?](https://github.com/dobriban/Talks/blob/master/muri_talk.pdf), Nov 2020, UPenn, ARO MURI reading group
