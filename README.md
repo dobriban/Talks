@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [The calculus of deterministic equivalents and its applications to high-dimensional statistics](https://github.com/dobriban/Talks/blob/master/cde.pdf), September 2021, ICSA Applied Statistics Symposium, MCP 2021.
 * [Deep Learning in Statistics: Practical Challenges](https://github.com/dobriban/Talks/blob/master/SDSS_short_course_2021_talk.pdf), May 2021, 2021 Symposium on Data Science & Statistics, Short Course on Deep Learning in Statistics
 * [What causes the test error? Going beyond bias-variance via ANOVA](https://github.com/dobriban/Talks/blob/master/Anova_Talk.pdf), May 2021, NSF-Simons Mathematical and Scientific Foundations of Deep Learning Journal Club
 * [HYPER: Flexible and effective pooled testing via hypergraph factorization](https://github.com/dobriban/Talks/blob/master/HYPER.pdf), Apr 2021, Princeton IDEAS seminar
