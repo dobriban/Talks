@@ -1,8 +1,9 @@
 # Talks
 Contains slides from my talks.
 
+* [A Framework for Statistical Inference via Randomized Algorithms](https://github.com/dobriban/Talks/blob/master/framework_for_statistical_inference_via_randomized_algorithms.pdf), July 2023, ISI WSC 2023, Ottawa.
 * [Consistency of invariance-based randomization tests](https://github.com/dobriban/Talks/blob/master/randomization_test.pdf), June 2022, ICSA 2022 China Conference.
-* [T-Cal: An optimal test for the calibration of predictive models](https://github.com/dobriban/Talks/blob/master/T-Cal.pdf), March 2022, Yale, MIT, UC Berkeley.
+* [T-Cal: An optimal test for the calibration of predictive models](https://github.com/dobriban/Talks/blob/master/T-Cal.pdf), March 2022, Yale, MIT, UC Berkeley, TOPML Conference, Simons Institute NYC.
 * [Talk for PhD Admits](https://github.com/dobriban/Talks/blob/master/talk-admits-2022.pdf), March 2022, Wharton Stats & Data Science PhD admit day.
 * [Comparing Classes of Estimators: When does Gradient Descent Beat Ridge Regression in Linear Models?](https://github.com/dobriban/Talks/blob/master/Ridge_Gradient_Descent.pdf), October 2021, 7th Princeton Day of Statistics.
 * [The calculus of deterministic equivalents and its applications to high-dimensional statistics](https://github.com/dobriban/Talks/blob/master/cde.pdf), September 2021, ICSA Applied Statistics Symposium, MCP 2021.
