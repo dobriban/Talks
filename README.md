@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift](https://github.com/dobriban/Talks/blob/master/rist_est_transfer_learning.pdf), October 2023, USCF Biostatistics & Bioinformatics Seminar.
 * [A Framework for Statistical Inference via Randomized Algorithms](https://github.com/dobriban/Talks/blob/master/framework_for_statistical_inference_via_randomized_algorithms.pdf), July 2023, ISI WSC 2023, Ottawa.
 * [Consistency of invariance-based randomization tests](https://github.com/dobriban/Talks/blob/master/randomization_test.pdf), June 2022, ICSA 2022 China Conference.
 * [T-Cal: An optimal test for the calibration of predictive models](https://github.com/dobriban/Talks/blob/master/T-Cal.pdf), March 2022, Yale, MIT, UC Berkeley, TOPML Conference, Simons Institute NYC.
