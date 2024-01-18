@@ -1,7 +1,7 @@
 # Talks
 Contains slides from my talks.
 
-* [Uncertainty Quantificationfor Machine Learning via PAC Prediction Sets](https://github.com/dobriban/Talks/blob/master/dobriban_pac_pred_set.pdf), January 2024, USC SEEDS Conference.
+* [Uncertainty Quantification for Machine Learning via PAC Prediction Sets](https://github.com/dobriban/Talks/blob/master/dobriban_pac_pred_set.pdf), January 2024, USC SEEDS Conference.
 * [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift](https://github.com/dobriban/Talks/blob/master/risk_est_transfer_learning.pdf), October 2023, UCSF Biostatistics & Bioinformatics Seminar.
 * [A Framework for Statistical Inference via Randomized Algorithms](https://github.com/dobriban/Talks/blob/master/framework_for_statistical_inference_via_randomized_algorithms.pdf), July 2023, ISI WSC 2023, Ottawa.
 * [Consistency of invariance-based randomization tests](https://github.com/dobriban/Talks/blob/master/randomization_test.pdf), June 2022, ICSA 2022 China Conference.
