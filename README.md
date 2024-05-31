@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [A Theory of Non-Linear Feature Learning with One Gradient Step in Two-Layer Neural Networks](https://github.com/dobriban/Talks/blob/master/A_Theory_of_Non_Linear_Feature_Learning_with_One_Gradient_Step_in_Two_Layer_Neural_Networks.pdf), Lausanne Event on ML Theory (Leman-Th), Lausanne, May 2024.
 * [Uncertainty Quantification for Machine Learning via PAC Prediction Sets](https://github.com/dobriban/Talks/blob/master/dobriban_pac_pred_set.pptx), January 2024, USC SEEDS Conference.
 * [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift](https://github.com/dobriban/Talks/blob/master/risk_est_transfer_learning.pdf), October 2023, UCSF Biostatistics & Bioinformatics Seminar.
 * [A Framework for Statistical Inference via Randomized Algorithms](https://github.com/dobriban/Talks/blob/master/framework_for_statistical_inference_via_randomized_algorithms.pdf), July 2023, ISI WSC 2023, Ottawa.
