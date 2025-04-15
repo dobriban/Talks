@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [Towards Improving the Reliability of AI: Perspectives from Uncertainty Quantification](https://github.com/dobriban/Talks/blob/master/Noether_Award_Lecture.pdf), Chicago Booth Applied AI Seminar, Apr 2025.
 * [On the Role of Nonparametric Statistics in the Age of AI](https://github.com/dobriban/Talks/blob/master/Noether_Award_Lecture.pdf), Noether Award Lecture, Aug 2024, JSM.
 * [Simultaneous Conformal Prediction of Missing Outcomes with Propensity Score ε-Discretization](https://github.com/dobriban/Talks/blob/master/pro_CP_slides.pdf), Aug 2024, JSM.
 * [Uncertainty Quantification for Machine Learning](https://github.com/dobriban/Talks/blob/master/Uncertainty_Quantification_for_Machine_Learning.pdf), May 2024, U Michigan Curriculum Workshop.
