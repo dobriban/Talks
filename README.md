@@ -1,6 +1,8 @@
 # Talks
 Contains slides from my talks.
 
+* [Statistics in the Age of AI: Leveraging Synthetic Data for
+Improved Predictive Inference](https://github.com/dobriban/Talks/blob/master/spi.pdf), NSF@75 Conference 2025; JSM 2025.
 * [Towards Improving the Reliability of AI: Perspectives from Uncertainty Quantification](https://github.com/dobriban/Talks/blob/master/Booth_Talk_2025.pdf), Chicago Booth Applied AI Seminar, Apr 2025.
 * [On the Role of Nonparametric Statistics in the Age of AI](https://github.com/dobriban/Talks/blob/master/Noether_Award_Lecture.pdf), Noether Award Lecture, Aug 2024, JSM.
 * [Simultaneous Conformal Prediction of Missing Outcomes with Propensity Score ε-Discretization](https://github.com/dobriban/Talks/blob/master/pro_CP_slides.pdf), Aug 2024, JSM.
