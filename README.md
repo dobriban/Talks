@@ -1,6 +1,8 @@
 # Talks
 Contains slides from my talks.
 
+* [Solving a Research Problem in Mathematical Statistics with AI Assistance](https://github.com/dobriban/Talks/blob/master/Solving_a_Research_Problem_in_Mathematical_Statistics_with_AI_Assistance_Slides.pdf).
+* [Leveraging synthetic data in statistical inference](https://github.com/dobriban/Talks/blob/master/GESPI_slides.pdf), Frontiers of Statistical Inference, MBZUAI, Nov 2025.
 * [Towards Improving the Reliability of AI: What can Statistics Contribute?](https://github.com/dobriban/Talks/blob/master/reliable_stat_AI.pdf), Penn AI Symposium, Sept 2025.
 * [Statistics in the Age of AI: Leveraging Synthetic Data for
 Improved Predictive Inference](https://github.com/dobriban/Talks/blob/master/spi.pdf), NSF@75 Conference 2025; JSM 2025.
