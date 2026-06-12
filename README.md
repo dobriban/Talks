@@ -1,6 +1,7 @@
 # Talks
 Contains slides from my talks.
 
+* [Case Studies in AI Uncertainty Quantification and Control](https://github.com/dobriban/Talks/blob/master/AI_UQ_and_Control_Talk.pdf). IVADO workshop: Uncertainty in AI, June 2026.
 * [Solving a Research Problem in Mathematical Statistics with AI Assistance](https://github.com/dobriban/Talks/blob/master/Solving_a_Research_Problem_in_Mathematical_Statistics_with_AI_Assistance_Slides.pdf).
 * [Leveraging synthetic data in statistical inference](https://github.com/dobriban/Talks/blob/master/GESPI_slides.pdf), Frontiers of Statistical Inference, MBZUAI, Nov 2025.
 * [Towards Improving the Reliability of AI: What can Statistics Contribute?](https://github.com/dobriban/Talks/blob/master/reliable_stat_AI.pdf), Penn AI Symposium, Sept 2025.
